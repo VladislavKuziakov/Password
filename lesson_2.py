@@ -18,3 +18,4 @@ for i in range(num_2-1):
 
 print("Ваш пароль:", password)
 print("Ваш ник:", nick)
+# новая запись
